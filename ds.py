@@ -9,4 +9,4 @@ another_list = [50,60,70]
 my_list.extend(another_list)
 del my_list[-1]
 my_list.sort()
-print(my_list.index(30))
+print("index of 30 is", my_list.index(30))
